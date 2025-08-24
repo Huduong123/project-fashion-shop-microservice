@@ -1,0 +1,9 @@
+[submodule "fashion-shop-fe-microservice"]
+	path = fashion-shop-fe-microservice
+	url = https://github.com/Huduong123/fashion-shop-fe-microservice.git
+[submodule "fashion-shop-fe-admin-microservice"]
+	path = fashion-shop-fe-admin-microservice
+	url = https://github.com/Huduong123/fashion-shop-fe-admin-microservice.git
+[submodule "fashion-shop-be-microservice"]
+	path = fashion-shop-be-microservice
+	url = https://github.com/Huduong123/fashion-shop-be-microservice.git
