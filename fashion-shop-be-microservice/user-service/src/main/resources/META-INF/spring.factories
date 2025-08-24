@@ -1,2 +1,0 @@
-org.springframework.boot.env.EnvironmentPostProcessor=\
-io.github.Huduong123.user_service.config.DotenvEnvironmentPostProcessor
